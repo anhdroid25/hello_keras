@@ -1,0 +1,7 @@
+myenv/
+myenv_tf/
+.env/
+venv/
+*.ipynb_checkpoints/
+__pycache__/
+Assignment 6-2.pdf
