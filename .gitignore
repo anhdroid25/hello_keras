@@ -5,3 +5,14 @@ venv/
 *.ipynb_checkpoints/
 __pycache__/
 Assignment 6-2.pdf
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS junk
+.DS_Store
+Thumbs.db
